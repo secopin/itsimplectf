@@ -1,0 +1,44 @@
+<section id="content-3-10" class="content-block data-section nopad content-3-10">
+	<div class="image-container col-sm-6 col-xs-12 pull-left">
+		<div class="background-image-holder">
+
+		</div>
+	</div>
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-6 col-sm-offset-6 col-xs-12 content">
+				<div class="editContent">
+					<h3>About Our Company</h3>
+				</div>
+				<div class="editContent">
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu libero scelerisque ligula sagittis faucibus eget quis lacus.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+					<p>Duis eu libero scelerisque ligula sagittis faucibus eget quis lacus.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+				</div>
+				<a href="#gallery" class="btn btn-outline btn-outline outline-dark">Our Gallery</a>
+			</div>
+		</div><!-- /.row-->
+	</div><!-- /.container -->
+</section>
+
+
+<!-- package section -->
+<section class="video-section">
+  <div class="container"> 
+    <div class="row">  
+            <div id="content24" data-section="content-24" class="data-section"> 
+    		<div class="col-md-6">
+				<h3 class="eidtContent">Content Video</h3>
+				<p class="eidtContent">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+   				<p class="editContent">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+				<p class="editContent">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+    		</div>
+			<div class="col-md-6">
+				<div class="embed-responsive embed-responsive-16by9">
+				  <iframe class="embed-responsive-item" src="images/pic01.jpg" allowfullscreen=""></iframe>
+				</div>
+			</div> 
+    	</div>
+			</div><!-- end row -->    
+  </div>
+</section>

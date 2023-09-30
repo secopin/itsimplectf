@@ -1,0 +1,2 @@
+Ciphertext: CBC8I+e2bKiafRwAvYtD+g6F6Esl29bImEEVjm7Cq613M7QXrag41lUV+YjoxYG5+Co
+Key: try_decrypt_text

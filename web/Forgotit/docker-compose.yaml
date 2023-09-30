@@ -1,0 +1,24 @@
+version: "3"
+
+networks:
+  forgot-net-01:
+    name: forgot-net-01
+services:
+  forgotit-01:
+    container_name: forgotit-01
+    build: .
+    ports:
+      - "54301:80"
+    volumes:
+      - ./:/usr/src/app/
+    networks:
+      - forgot-net-01
+  flag-service:
+    build: .
+    command: "python flag.py"
+    expose:
+      - 8888
+    volumes:
+      - ./:/usr/src/app/
+    networks:
+      - forgot-net-01

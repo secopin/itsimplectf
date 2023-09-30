@@ -1,0 +1,30 @@
+version: "3"
+services:
+  justquicklay-01:
+    container_name: juStQuickLay-01
+    build: .
+    ports:
+      - "26201:80"
+    volumes:
+      - ./:/usr/src/app/
+  justquicklay-02:
+    container_name: juStQuickLay-02
+    build: .
+    ports:
+      - "26202:80"
+    volumes:
+      - ./:/usr/src/app/
+  justquicklay-03:
+    container_name: juStQuickLay-03
+    build: .
+    ports:
+      - "26203:80"
+    volumes:
+      - ./:/usr/src/app/
+  justquicklay-04:
+    container_name: juStQuickLay-04
+    build: .
+    ports:
+      - "26204:80"
+    volumes:
+      - ./:/usr/src/app/

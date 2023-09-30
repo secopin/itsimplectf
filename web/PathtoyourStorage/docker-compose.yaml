@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+    pathtoyourstorage-01:
+        build: ./
+        container_name: PathtoyourStorage-01
+        ports:
+            - "32841:80"
+        volumes:
+            - ./Nginx/www:/var/www/
+            - ./Nginx/Logs:/var/log/nginx/
+            - ./Nginx/html:/usr/share/nginx/html/

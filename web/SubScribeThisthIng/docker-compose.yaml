@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  subscribethisthing-01:
+    container_name: SubScribeThisthIng-01
+    build: .
+    ports:
+      - "44341:80"
+    volumes:
+      - ./:/usr/src/app/
