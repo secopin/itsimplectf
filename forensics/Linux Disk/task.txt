@@ -1,0 +1,2 @@
+Необходимо исследовать образ и найти флаг, найдя подсказку в crontab. В качестве усложнения сам образ весит много, но заполнен по сути нулями и полезной информации в нем не так много.
+Образ диска: https://biik-my.sharepoint.com/:u:/g/personal/maximazh_office_biik_ru/EWxRLgMgcKtBowlWL2wzIMEBPsy5AZFn0xopFk276VbyHA?e=WzIYwh

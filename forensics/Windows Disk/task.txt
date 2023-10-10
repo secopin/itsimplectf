@@ -1,0 +1,2 @@
+Найти скрипт которым зашифровали файл флага, найти сам файл флага. Вытащить ключи из скрипта и расшифровать флаг.
+Образ диска: https://biik-my.sharepoint.com/:u:/g/personal/maximazh_office_biik_ru/EXMCJRYplbNPrVmIUnhh2soBf8E_WEh88mQiAx_HIkW5RA?e=5NFNUW
